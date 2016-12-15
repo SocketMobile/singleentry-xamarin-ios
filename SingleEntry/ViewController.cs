@@ -29,6 +29,7 @@ using ScanAPI;
 using System.Timers;
 using System.Runtime.InteropServices;
 using System.Text;
+using SocketMobile;
 
 namespace SingleEntry
 {

@@ -72,11 +72,11 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.iOS" />
-    <Reference Include="ScanAPI">
-      <HintPath>..\packages\SocketMobile.ScanAPI.Xamarin.10.2.109.0\lib\ScanAPI.dll</HintPath>
-    </Reference>
     <Reference Include="Calabash">
       <HintPath>..\packages\Xamarin.TestCloud.Agent.0.16.2\lib\Xamarin.iOS10\Calabash.dll</HintPath>
+    </Reference>
+    <Reference Include="ScanAPI">
+      <HintPath>..\packages\SocketMobile.ScanAPI.Xamarin.iOS.10.3.7.36\lib\ScanAPI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
